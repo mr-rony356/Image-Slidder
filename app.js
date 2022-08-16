@@ -1,7 +1,7 @@
 const person =[
     {
         id:1,
-        image:"/Abdul.png",
+        image:"Abdul.png",
         name: "Abdul Al Amin",
         job:"Web Developer",
         info: "It's me Abdul, an experienced, professional Web developer with 3years high-end Web development services using following technologies (WordPress - WooCommerce - Wix - Shopify - Custom Frontend development - PHP Laravel and Angular). I have completed 100+ Websites for clients in a broad range of industries, from small and mid-level businesses to high-end companies & still counting. I build top quality,user-friendly and responsive custom websites with SEO friendly structure.",
@@ -11,7 +11,7 @@ const person =[
     },
     {
         id:2,
-        image:"/Omor.png",
+        image:"Omor.png",
         name: "Omor Faruk Rony",
         job:"Web Developer",
         info: "It's me Omor, an experienced, professional Web developer with 3years high-end Web development services using following technologies (WordPress - WooCommerce - Wix - Shopify - Custom Frontend development - PHP Laravel and Angular). I have completed 100+ Websites for clients in a broad range of industries, from small and mid-level businesses to high-end companies & still counting. I build top quality,user-friendly and responsive custom websites with SEO friendly structure.",
@@ -21,7 +21,7 @@ const person =[
     },
     {
         id:3,
-        image:"/Ivan A.png",
+        image:"Ivan A.png",
         name: "Ivan Parker",
         job:"Web Developer",
         info: "It's me Ivan, an experienced, professional Web developer with 3years high-end Web development services using following technologies (WordPress - WooCommerce - Wix - Shopify - Custom Frontend development - PHP Laravel and Angular). I have completed 100+ Websites for clients in a broad range of industries, from small and mid-level businesses to high-end companies & still counting. I build top quality,user-friendly and responsive custom websites with SEO friendly structure.",
@@ -31,7 +31,7 @@ const person =[
     },
     {
         id:4,
-        image:"/Jim J.png",
+        image:"Jim J.png",
         name: "Jim Jony",
         job:"Video Editor",
         info: "It's me Jim, an experienced, professional Web developer with 3years high-end Web development services using following technologies (WordPress - WooCommerce - Wix - Shopify - Custom Frontend development - PHP Laravel and Angular). I have completed 100+ Websites for clients in a broad range of industries, from small and mid-level businesses to high-end companies & still counting. I build top quality,user-friendly and responsive custom websites with SEO friendly structure.",
@@ -41,7 +41,7 @@ const person =[
     },
     {
         id:5,
-        image:"/Uigene L.png",
+        image:"Uigene L.png",
         name: "Uigene Lame",
         job:"Grapics Designer ",
         info: "It's me Gini, an experienced, professional Web developer with 3years high-end Web development services using following technologies (WordPress - WooCommerce - Wix - Shopify - Custom Frontend development - PHP Laravel and Angular). I have completed 100+ Websites for clients in a broad range of industries, from small and mid-level businesses to high-end companies & still counting. I build top quality,user-friendly and responsive custom websites with SEO friendly structure.",
